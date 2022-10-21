@@ -1,0 +1,25 @@
+/* Write your code here. */
+.home-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  height: 100%;
+  width: 100%;
+}
+.navbar {
+  background-image: linear-gradient(to right, #9796f0, #ffffff33);
+  height: 10%;
+  width: 100%;
+}
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.emoji-game-container {
+  height: 80%;
+  width: 50%;
+
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  list-style-type: none;
+}

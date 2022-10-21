@@ -1,0 +1,31 @@
+/* Write your code here. */
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.nav-heading-card {
+  display: flex;
+  justify-content: space-around;
+  width: 15%;
+  align-items: center;
+}
+.nav-score-card {
+  display: flex;
+  justify-content: space-around;
+  width: 20%;
+}
+.nav-logo-image {
+  height: 30px;
+  width: 30px;
+}
+.game-name {
+  font-size: 20px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.nav-score {
+  font-size: 15px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}

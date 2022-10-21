@@ -1,0 +1,22 @@
+/* Write your code here. */
+
+.emoji-card-container {
+  background-color: #ffffff33;
+  border-radius: 5px;
+  height: 120px;
+  width: 120px;
+  list-style-type: none;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ffffff30;
+}
+.emoji-button {
+  border: none;
+  background-color: transparent;
+}
+.emoji-image {
+  height: 50px;
+  width: 50px;
+}
